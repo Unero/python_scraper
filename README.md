@@ -1,19 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Unero GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Unero/python_scraper/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Content
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Scraper based on python with little modifying, with purpose to get data from a target website.
 
 ```markdown
-Syntax highlighted code block
+Feature
 
-# Header 1
-## Header 2
-### Header 3
+# Python usage.
+## Easy setup.
+### Save target website.
+
 
 - Bulleted
 - List
