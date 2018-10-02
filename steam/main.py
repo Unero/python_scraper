@@ -2,7 +2,6 @@
 # -- coding : UTF8 --
 # This scraper is created by Unero for scraping user status in steam.
 from time import sleep
-
 import requests
 from fake_useragent import UserAgent
 from lxml import html
